@@ -3,7 +3,7 @@ name = "SigmaOS-lamp"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "lamp component"
+description = "LAMP stack: Linux Apache MySQL PHP bundle"
 upstream = []
 
 [contract]
